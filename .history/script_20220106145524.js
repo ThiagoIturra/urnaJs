@@ -1,0 +1,1 @@
+let yourVoteFor = document.querySelector('d1');
